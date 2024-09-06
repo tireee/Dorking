@@ -18,3 +18,6 @@ to run code you do `python dorking.py --google` if you want to dork using google
 and `python dorking.py --duckduckgo` if you want to search using duckduckgo and
 
 if you want both you can do `python dorking.py --google --duckduckgo`
+
+https://github.com/user-attachments/assets/fe405e4e-700a-4f73-846e-0ff2bc5bf8f1
+
