@@ -9,8 +9,12 @@ How to run it
 
 First fill `test.txt` with dorking templates 
 
-Then for the moment theres just google and duckduckgo and theres two modes you 
-can use `--google` and `--duckduckgo` 
-to run code you do `python dorking.py --google` if you want to dork using google 
-and `python dorking.py --duckduckgo` if you want to search using duckduckgo and 
-if you want both you can do `python dorking.py --google --duckduckgo` 
+Then for the moment theres just google and duckduckgo and theres two modes you
+
+can use `--google` and `--duckduckgo`
+
+to run code you do `python dorking.py --google` if you want to dork using google
+
+and `python dorking.py --duckduckgo` if you want to search using duckduckgo and
+
+if you want both you can do `python dorking.py --google --duckduckgo`
