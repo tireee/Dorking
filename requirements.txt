@@ -1,0 +1,6 @@
+selenium==4.24.0
+selenium-stealth==1.0.6
+pytesseract==0.3.13
+pillow==10.4.0
+urllib3==2.2.2
+rich==11.2.0
